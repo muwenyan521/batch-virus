@@ -63,13 +63,13 @@ Please make sure to fully understand the information in the documents before pro
 
 This project includes a variety of viruses, and here is a detailed document index to help you quickly find the sections that interest you:
 
-1. **[Single-Function Viruses](https://batch-virus.wangxianming.us.kg/viruses/Docs-Guides/Single-EN.md)**
+1. **[Single-Function Viruses](https://github.com/muwenyan521/batch-virus/blob/main/virus/Docs-Guides/Single-EN.md)**
    - This section provides detailed information on viruses that focus on a single type of disruption or effect.
 
-2. **[Hybrid Viruses](https://batch-virus.wangxianming.us.kg/viruses/Docs-Guides/Hybrid-CN.md)**
+2. **[Hybrid Viruses](https://github.com/muwenyan521/batch-virus/blob/main/virus/Docs-Guides/Hybrid-CN.md)**
    - Here you will find complex viruses that combine multiple types of destructive functions.
 
-3. **[Other Viruses](https://batch-virus.wangxianming.us.kg/viruses/Docs-Guides/Other-EN.md)**
+3. **[Other Viruses](https://github.com/muwenyan521/batch-virus/blob/main/virus/Docs-Guides/Other-EN.md)**
    - For viruses that do not fit into the above categories, you can find information here.
 
 Each category comes with detailed descriptions, use cases, and safety guidelines to ensure that you fully understand the characteristics and potential risks when working with these viruses.
@@ -237,13 +237,13 @@ Please remember, the use of these viruses is strictly for educational and resear
 
 本项目包含多种类型的病毒，以下是详细的文档索引，帮助您快速找到您感兴趣的部分：
 
-1. **[单功能病毒](https://batch-virus.wangxianming.us.kg/viruses/Docs-Guides/Single-CN.md)**
+1. **[单功能病毒](https://github.com/muwenyan521/batch-virus/blob/main/virus/Docs-Guides/Single-CN.md)**
    - 这部分文档详细介绍了专注于单一破坏或影响功能的病毒。
 
-2. **[混合病毒](https://batch-virus.wangxianming.us.kg/viruses/Docs-Guides/Hybrid-CN.md)**
+2. **[混合病毒](https://github.com/muwenyan521/batch-virus/blob/main/virus/Docs-Guides/Hybrid-CN.md)**
    - 这里包含了结合了多种破坏性功能的复杂病毒。
 
-3. **[其他病毒](https://batch-virus.wangxianming.us.kg/viruses/Docs-Guides/Other-CN.md)**
+3. **[其他病毒](https://github.com/muwenyan521/batch-virus/blob/main/virus/Docs-Guides/Other-CN.md)**
    - 对于那些不符合上述分类的病毒，您可以在这里找到相关信息。
 
 每个分类都附有详细的描述、使用案例和安全指南，确保您在使用这些病毒时能够充分了解其特性和潜在风险。
