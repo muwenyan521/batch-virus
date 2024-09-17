@@ -68,7 +68,7 @@ We encourage contributions to improve the educational value of this project. Her
 All contributions and pull requests are welcome. Help us make this project better and more educational.
 
 
-Some content of this repository comes from [SparkScratch-P/batch-virus]https://github.com/SparkScratch-P/batch-virus/ thank you for their contribution.
+Some content of this repository comes from [SparkScratch-P/batch-virus](https://github.com/SparkScratch-P/batch-virus/) thank you for their contribution.
 
 
 ---
@@ -212,7 +212,7 @@ Please remember, the use of these viruses is strictly for educational and resear
 欢迎所有贡献和拉取请求。帮助我们使这个项目更好、更具教育意义。
 
 
-本仓库的部分内容来源于[SparkScratch-P/batch-virus]https://github.com/SparkScratch-P/batch-virus/ ,感谢他们的付出
+本仓库的部分内容来源于[SparkScratch-P/batch-virus](https://github.com/SparkScratch-P/batch-virus/) ,感谢他们的付出
 
 
 ---
