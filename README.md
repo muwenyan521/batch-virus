@@ -78,16 +78,35 @@ If you find this project useful, please consider leaving a star. Your support is
 
 Please remember, the use of these viruses is strictly for educational and research purposes. Misuse can lead to severe consequences. Always act responsibly and ethically.
 
-
-
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
@@ -180,8 +199,7 @@ Please remember, the use of these viruses is strictly for educational and resear
 
 - **新病毒：** 提交新的或更具影响力的病毒。
 - **可控病毒：** 开发可以用于好的病毒。
-- **有帮助的病毒：** 创建可以帮助系统维护或安全的病毒。
-- **文档编制：** 帮助记录更多病毒。我们还有 25 个病毒需要记录，这个页面上已经完成了 10 个。
+- **文档编制：** 帮助记录更多病毒。
 - **错误报告：** 报告任何问题或建议改进。
 
 ---
