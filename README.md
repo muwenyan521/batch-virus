@@ -46,6 +46,18 @@ This collection of viruses is designed to demonstrate the potential impact of ma
 
 ---
 
+
+## 📖 Document Viewing
+
+To better understand this project and the viruses it contains, we have provided detailed documentation. These documents include descriptions of each virus, instructions for use, potential impacts. Please read these documents carefully before running any code.
+
+- **Virus Overview**: Learn about the basic information and functions of each virus.
+- **Usage Guide**: Detailed steps on how to safely download, install, and test the viruses.
+- **Frequently Asked Questions**: Answers to some common questions that may arise during use.
+
+Please make sure to fully understand the information in the documents before proceeding with any operations.
+
+
 ## 💾 Download
 
 [Download Batch Viruses](https://codeload.github.com/muwenyan521/batch-virus/zip/refs/heads/main)
@@ -188,7 +200,24 @@ Please remember, the use of these viruses is strictly for educational and resear
 - **预防措施：** 谨慎行事，了解运行这些病毒的影响。
 - **教育用途：** 已删除或更改了 `#include` 库，以防止滥用。
 
+
 ---
+
+## 📖 文档查看
+
+为了更好地理解本项目和其中包含的病毒，我们提供了详细的文档。这些文档包括每个病毒的描述、使用方法、潜在影响。请在运行任何代码之前仔细阅读这些文档。
+
+- **病毒概述**：了解每个病毒的基本信息和它们的作用。
+- **使用指南**：详细步骤指导如何安全地下载、安装和测试病毒。
+- **常见问题**：解答在使用过程中可能遇到的一些常见问题。
+
+请确保在进行任何操作之前，充分理解文档中的信息。
+
+---
+
+
+
+
 
 ## 💾 下载
 
