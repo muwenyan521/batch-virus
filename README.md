@@ -58,7 +58,6 @@ We encourage contributions to improve the educational value of this project. Her
 
 - **New Viruses:** Submit new or more impactful viruses.
 - **Controlled Viruses:** Develop viruses that can be used for good.
-- **Helpful Viruses:** Create viruses that assist in system maintenance or security.
 - **Documentation:** Help document more viruses. 
 - **Bug Reports:** Report any issues or suggest improvements.
 
